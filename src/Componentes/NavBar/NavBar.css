@@ -1,0 +1,14 @@
+.navBarHover li a{
+    border-radius: 1rem;
+    font-size: 1.15rem;
+    transition: all .5s;
+}
+
+.navBarHover li a:hover{
+    background-color: rgba(67, 255, 230, 0.979);
+}
+
+.bg-custom-color{
+    background: rgb(65,255,237);
+    background: linear-gradient(90deg, rgba(65,255,237,1) 0%, rgba(45,196,253,1) 100%);
+}

@@ -1,0 +1,16 @@
+.carroDisable{
+    border-radius: .3rem;
+    font-weight: bold;
+}
+
+.carroActive{
+    border-radius: .3rem;
+    border: .15rem solid rgb(38, 240, 230);
+    background-color: transparent;
+    font-weight: bold;
+    transition: all .4s;
+}
+
+.carroActive:hover{
+    background-color: rgb(38, 240, 230);
+}
